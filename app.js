@@ -40,6 +40,6 @@ var shuffle = require('knuth-shuffle').knuthShuffle;
     dealer.push(cards.pop());
   });
 
-  console.log('Player:', player, 'Dealer:', ['?', dealer[]]);
+  console.log('Player:', player, 'Dealer:', ['?', dealer[1]]);
 
 }());
